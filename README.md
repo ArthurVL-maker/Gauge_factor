@@ -5,7 +5,7 @@ Uses the recorded signals from the strain gauges of the input bar to calculate t
 
 #### PYTHON SOFTWARE:
 - Van Lerberghe, A., Li, K. S. O. (2023) *gauge_factor.py* - A Python algorithm for calculating the gauge factor of the input bar for split-Hopkinson pressure bar experiments. University of Sheffield.\
-Software ORDA link: [ ]
+Software ORDA link: [https://github.com/ArthurVL-maker/Gauge_factor.git]
 
 #### AUTHORS:
 Arthur Van Lerberghe <avanlerberghe1@sheffield.ac.uk> & Kin Shing Oswald Li <ksoli1@sheffield.ac.uk>.
