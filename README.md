@@ -1,4 +1,4 @@
-# gauge_factor.py - A Python algorithm for calculating the gauge factors of the input bars for split-Hopkinson pressure bar experiments.
+# gauge_factor.py - A Python algorithm for calculating the gauge factor of the input bars for split-Hopkinson pressure bar experiments.
 
 #### DESCRIPTION: 
 Uses the recorded signals from the strain gauges of the input bar to calculate the gauge factor # for split-Hopkinson pressure bar experiments.
